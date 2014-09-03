@@ -3,7 +3,7 @@
 标签： Arduino 3D打印  直流无刷电机
 
 --- 
-![dd](http://player.youku.com/player.php/sid/XNDMyNjQ2NjYw/v.swf)
+<embed src="http://player.youku.com/player.php/sid/XNDMyNjQ2NjYw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ![图片1](./20140903_image/17.jpg)
 
