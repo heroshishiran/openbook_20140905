@@ -4,7 +4,7 @@
 
 --- 
 
-<iframe height=498 width=510 src="http://player.youku.com/player.php/sid/XNzcwNjI1OTky/v.swf" frameborder=0 allowfullscreen></iframe>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XNzcwNjI1OTky" frameborder=0 allowfullscreen></iframe>
 
 
 ![图片1](./20140903_image/17.jpg)
