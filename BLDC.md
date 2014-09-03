@@ -5,6 +5,7 @@
 --- 
 <embed src="http://player.youku.com/player.php/sid/XNDMyNjQ2NjYw/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
+
 ![图片1](./20140903_image/17.jpg)
 
 我设计并使用3D打印机制造了一个无刷直流电机（BLDC），并且使用Arduino去控制这个电机。电机的所有组成部分，包括永磁体，磁极线圈，霍尔效应传感器，都由Makerbot Replicator 2制造。视频展示了完成后电机工作的情形。
